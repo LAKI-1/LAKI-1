@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LAKI-1
+- 👋 Hi, I’m Lakindu aka @LAKI-1
 - 👀 I’m interested in AI development
 - 🌱 I’m currently learning Java, Rust, Flutter
 - 💞️ I’m looking to collaborate on Full Stack Developer
